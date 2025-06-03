@@ -16,3 +16,4 @@ jobs:
       with:
         name: extract_gtow
         path: dist/extract_gtow.exe
+        
